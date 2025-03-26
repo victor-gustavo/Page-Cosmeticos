@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+*{
+    margin: 0;
+    box-sizing: border-box;
+
+}
+h1, h2{
+    font-family: var(--font-titulo);
+}
+h2{
+    font-size: 20px;
+}
+:root{
+    --texto-principal: #C3BAAB;
+    --texto-titulo: #B0A89D;
+    --bg-caixas: #EDECE8;
+    --font-titulo: "Gloria Hallelujah", cursive;
+}
