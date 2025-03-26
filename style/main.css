@@ -2,7 +2,8 @@ main{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    align-items: center;
+    max-width: 1800px;
+    margin: auto;
 }
 main img{
     height: 300px;
