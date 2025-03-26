@@ -3,6 +3,7 @@ main{
     flex-wrap: wrap;
     justify-content: space-evenly;
     max-width: 1800px;
+    min-width: 600px;
     margin: auto;
 }
 main img{
